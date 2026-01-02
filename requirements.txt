@@ -1,3 +1,8 @@
-fastapi
-uvicorn
+streamlit
+numpy
+pandas
+yfinance
+scikit-learn
+matplotlib
+requests
 stripe
